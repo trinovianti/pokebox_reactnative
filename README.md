@@ -1,2 +1,2 @@
 # pokebox_reactnative
-Simple Application Use React Native
+A simple application that use React Native with Redux. 
