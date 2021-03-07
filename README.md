@@ -1,0 +1,54 @@
+# Pokemon
+
+A simple React Native application consume Pokeapi<br/>
+API: https://pokeapi.co/.<br/>
+Packages: axios and react-navigation.<br/>
+
+# What's needed
+
+- [Node.js](http://nodejs.org)
+- [React](https://github.com/facebook/react) & [React Native](https://github.com/facebook/react-native)
+- [Expo](https://docs.expo.io/)
+
+## What's included
+
+- [Redux](https://github.com/reactjs/redux)
+
+## Start
+
+- Install node, expo-cli, and react-native-cli by following this [guide](https://reactnative.dev/docs/environment-setup)
+
+After downloading source code in project root directory install below command:
+
+$ npm i
+
+## Develop
+
+##### iOS
+
+Run command to open iOS simulator and run app:
+
+$ npm run ios
+
+##### Android (6.0+)
+
+Run command to open Android emulator and run app:
+
+$ npm run android
+
+##### Android (6.0+) (Using Expo)
+
+Run command to start using expo
+
+$ expo start
+
+# Sample Simple Application
+
+Image 1 (Home screen);<br/>
+Image 2 (Main screen);<br/>
+Image 3 and 4 (Detail Pokemon).<br/><br/>
+
+<img src="./assets/screenshot/screenshot1.jpeg" width="24%" height="24%"/>       
+<img src="./assets/screenshot/screenshot2.jpeg" width="24%" height="24%"/>      
+<img src="./assets/screenshot/screenshot3.jpeg" width="24%" height="24%"/>      
+<img src="./assets/screenshot/screenshot4.jpeg" width="24%" height="24%"/>      >
