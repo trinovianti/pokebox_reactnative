@@ -48,7 +48,7 @@ Image 1 (Home screen);<br/>
 Image 2 (Main screen);<br/>
 Image 3 and 4 (Detail Pokemon).<br/><br/>
 
-<img src="./assets/screenshot/screenshot1.jpeg" width="24%" height="24%"/>       
-<img src="./assets/screenshot/screenshot2.jpeg" width="24%" height="24%"/>      
-<img src="./assets/screenshot/screenshot3.jpeg" width="24%" height="24%"/>      
-<img src="./assets/screenshot/screenshot4.jpeg" width="24%" height="24%"/>      >
+<img src="./assets/screenshot/screenshot1.jpg" width="24%" height="24%"/>       
+<img src="./assets/screenshot/screenshot2.jpg" width="24%" height="24%"/>      
+<img src="./assets/screenshot/screenshot3.jpg" width="24%" height="24%"/>      
+<img src="./assets/screenshot/screenshot4.jpg" width="24%" height="24%"/>
