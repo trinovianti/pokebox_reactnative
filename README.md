@@ -2,7 +2,7 @@
 
 A simple React Native application consume Pokeapi<br/>
 API: https://pokeapi.co/.<br/>
-Packages: axios and react-navigation.<br/>
+
 
 # What's needed
 
@@ -12,7 +12,7 @@ Packages: axios and react-navigation.<br/>
 
 ## What's included
 
-- [Redux](https://github.com/reactjs/redux)
+- axios and react-navigation
 
 ## Start
 
